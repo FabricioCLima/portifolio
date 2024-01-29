@@ -98,7 +98,7 @@ body{
     border: 2px solid var(--corTerciaria);
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--corHover);
 }
 
